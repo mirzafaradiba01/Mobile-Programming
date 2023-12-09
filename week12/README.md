@@ -71,7 +71,7 @@ No.Absen : 18
 
 ## Hasil Output
 
-![Screenshot hello_word](img/praktikum%202.gif)
+![Screenshot hello_word](img/Praktikum%202.gif)
 
 ## Tugas Praktikum 3: State di Multiple Screens
 
@@ -90,4 +90,4 @@ No.Absen : 18
     Pada Langkah 14, penambahan fitur di PlanCreatorScreen memungkinkan pengguna membuat dan menampilkan daftar rencana baru. Layar pertama, PlanCreatorScreen, memungkinkan pembuatan rencana baru, sementara layar kedua, PlanScreen, memungkinkan melihat detail rencana yang ada dan melakukan penambahan, penghapusan, atau pengeditan tugas.
 
 ## Hasil Output
-![Screenshot hello_word](img/praktikum%203.gif)
+![Screenshot hello_word](img/Praktikum%203.gif)
